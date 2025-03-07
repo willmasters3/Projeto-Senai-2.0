@@ -270,7 +270,7 @@ footer {
     padding: 10px;
     text-align: center;
     position: fixed;
-    bottom: 0;
+    bottom: 10;
     width: 100%;
 }
  
